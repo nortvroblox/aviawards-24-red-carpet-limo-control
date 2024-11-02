@@ -1,0 +1,25 @@
+{
+  "name": "RobloxProjectTemplate",
+  "emitLegacyScripts": false,
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "LimoPackages": {
+        "$path": "Packages"
+      },
+      "LimoClient": {
+        "$path": "src/Client"
+      },
+      "LimoCommon": {
+        "$path": "src/Common"
+      },
+      "$ignoreUnknownInstances": true
+    },
+    "ServerScriptService": {
+      "LimoServer": {
+        "$path": "src/Server"
+      },
+      "$ignoreUnknownInstances": true
+    }
+  }
+}
