@@ -1,4 +1,4 @@
-## Voting - AA 24
+## Red Carpet Limo Control - AA 24
 
 This repository is created based on the [roblox-project-template](https://github.com/grilme99/roblox-project-template), under the MIT license.
 
